@@ -95,33 +95,16 @@ with a passion for building scalable digital solutions and solving complex probl
 ---
 
 ⭐ *“Code scalable systems. Solve real problems. Keep improving.”*
-<!-- Animated Footer Scene -->
+---
+⭐ *"Code scalable systems. Solve real problems. Keep improving."*
 
 <p align="center">
-<svg width="100%" height="200" viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d9ff66,100:bfff00&height=180&section=footer"/>
+</p>
 
-<style>
-.bug1 {
-  animation: move1 8s linear infinite;
-}
-.bug2 {
-  animation: move2 10s linear infinite;
-}
-@keyframes move1 {
-  0% { transform: translate(0,0); }
-  50% { transform: translate(200px,-20px); }
-  100% { transform: translate(0,0); }
-}
-@keyframes move2 {
-  0% { transform: translate(0,0); }
-  50% { transform: translate(-200px,20px); }
-  100% { transform: translate(0,0); }
-}
-</style>
-
-<!-- ground -->
-<rect x="0" y="140" width="1200" height="60" fill="#9aff00"/>
-
+<p align="center">
+  🐞                🕷️
+</p>
 <!-- waves -->
 <path d="M0 150 Q300 120 600 150 T1200 150" fill="#bfff33"/>
 <path d="M0 160 Q300 130 600 160 T1200 160" fill="#d9ff66"/>
