@@ -99,21 +99,6 @@ with a passion for building scalable digital solutions and solving complex probl
 ⭐ *"Code scalable systems. Solve real problems. Keep improving."*
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d9ff66,100:bfff00&height=180&section=footer"/>
-</p>
-
-<p align="center">
-  🐞                🕷️
-</p>
-<!-- waves -->
-<path d="M0 150 Q300 120 600 150 T1200 150" fill="#bfff33"/>
-<path d="M0 160 Q300 130 600 160 T1200 160" fill="#d9ff66"/>
-
-<!-- bug -->
-<text x="200" y="80" font-size="30" class="bug1">🐞</text>
-
-<!-- spider -->
-<text x="900" y="90" font-size="30" class="bug2">🕷️</text>
-
-</svg>
+  <img src="./bug.gif" width="120"/>
+  <img src="./spider.gif" width="120"/>
 </p>
