@@ -1,4 +1,14 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=260&section=header&text=AysemDT&fontSize=48&fontColor=ffffff"/>
+<p align="center">
+  <img src="https://camo.githubusercontent.com/283a1cbfd68469d00a16e6171df37599580fdb2c4ea915743c24b5e726a74902/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6157526a314671436465456d554d71454f362f67697068792e676966" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=44&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=1100&height=85&lines=AysemDT;Crafting+Responsive+Interfaces;Building+REST+APIs;Engineering+Scalable+Digital+Solutions" />
+</p>
+
+<p align="center">
+  <b><i>Experienced in frontend and backend development, building responsive interfaces, REST APIs, and scalable digital solutions.</i></b>
+</p>
 
 # Hi! I'm AysemDT.
 
